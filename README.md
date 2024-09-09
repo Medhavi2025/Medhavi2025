@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Medhavi Kaushik,a Growing Developer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medhavi2025&label=Profile%20views&color=0e75b6&style=flat" alt="medhavi2025" /> </p>
-
 
 - 🔭 I’m currently working on **learning DevOps & Data Analysis skills.**
 

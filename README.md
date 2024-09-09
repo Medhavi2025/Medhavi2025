@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Medhavi Kaushik,a Growing Developer</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=medhavi2025&label=Profile%20views&color=0e75b6&style=flat" alt="medhavi2025" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medhavi2025" alt="medhavi2025" /></a> </p>
+
+- 🔭 I’m currently working on **learning DevOps & Data Analysis skills.**
+
+- 🌱 I’m currently learning **Full Stack Development,Linux,C++DSA**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/medhavi-kaushik-a85357251/) 
 
